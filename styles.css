@@ -8,3 +8,8 @@ h1{
     color: rgb(218, 210, 210);
     text-align: center;
 }
+nav{
+	height: 5%;
+	width: 50%;
+    border-bottom: 2px solid lightblue;
+}
