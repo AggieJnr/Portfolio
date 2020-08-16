@@ -1,3 +1,10 @@
 *{
     background-color: rgb(19, 19, 78);
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(218, 210, 210);
+    text-align: center;
+}
