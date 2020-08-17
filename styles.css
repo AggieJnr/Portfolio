@@ -54,3 +54,6 @@ nav ul li a{
     text-align: left;
     font-size: large;
 }
+em{
+    font-weight: bold;
+}
